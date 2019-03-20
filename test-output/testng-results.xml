@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="188727" started-at="2019-02-27T11:41:23Z" finished-at="2019-02-27T11:44:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="188727" started-at="2019-02-27T11:41:23Z" finished-at="2019-02-27T11:44:32Z">
+      <class name="JLR_RTCLoginApp.RTClogin2">
+        <test-method status="PASS" signature="launchCode()[pri:0, instance:JLR_RTCLoginApp.RTClogin2@7aecef]" name="launchCode" is-config="true" duration-ms="7907" started-at="2019-02-27T11:41:23Z" finished-at="2019-02-27T11:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCode -->
+        <test-method status="PASS" signature="LoginintoApp()[pri:0, instance:JLR_RTCLoginApp.RTClogin2@7aecef]" name="LoginintoApp" duration-ms="180772" started-at="2019-02-27T11:41:31Z" finished-at="2019-02-27T11:44:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginintoApp -->
+      </class> <!-- JLR_RTCLoginApp.RTClogin2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
