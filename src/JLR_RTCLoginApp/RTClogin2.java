@@ -29,7 +29,7 @@ public class RTClogin2 {
 		driver = new ChromeDriver(); // creating instance 
 		driver.get("https://localhost:9443/ccm/web");
 		//driver.get("https://l-9604:9443/ccm/web/");// hit URL  amit
-		driver.manage().window().maximize();
+		//driver.manage().window().maximize();
 	
 	}
 	@Test
